@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuffiCZ
 - 👀 I’m interested in Advanced web development
-- 🌱 I’m currently learning The našich ( HTML,CSS,JS) 
-- 💞️ I’m looking to collaborate on .. Not yet tho im měření a beginner
+- 🌱 I’m currently learning The basics ( HTML,CSS,JS) 
+- 💞️ I’m looking to collaborate on .. Not yet, im a beginner
 - 📫 How to reach me ...
 
 <!---
