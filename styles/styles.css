@@ -1,0 +1,78 @@
+@font-face {
+  font-family: Font1;
+  src: url(orbitron-medium-webfont.woff);
+}
+
+body {
+  background: rgb(102,153,255);
+  background: linear-gradient(90deg, rgba(102,153,255,1) 0%, rgba(76,58,247,1) 50%, rgba(102,153,255,1) 100%);
+  text-align: center;
+}
+
+h1 {
+  color:#28b5b5;
+  font-family:  Font1;
+  font-size: 120px;
+  margin-bottom: 20px;
+
+}
+
+h2 {
+font-family:  Font1;
+font-size: 45px;
+margin-top: 20px;
+color: #8fd9a8;
+}
+ p {
+   font-size: 30px;
+    font-family: 'PT Sans', sans-serif;
+   color: #8fd9a8;
+   margin-top: 20px;
+
+ }
+
+
+.background-pic {
+  text-align: center;
+  position: relative;
+
+}
+
+.mememe {
+   font-family: 'PT Sans', sans-serif;
+  text-align: left;
+  width: 1080px;
+  font-size: 30px;
+  margin: auto;
+  margin-top:30px;
+}
+
+.gallery {
+  width: 1080px;
+  height: 300px;
+  border: solid;
+  border-width: 5px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top:30px;
+  color: #28b5b5;
+}
+
+.www-gif {
+width: 300px;
+height: 300px;
+text-align: right;
+float: left;
+}
+.focus {
+  width: 1080px;
+  height: 300px;
+  text-align: left;
+ margin: auto;
+  position: relative;
+}
+
+.focus-p {
+  padding-right: 120px;
+  padding-top: 80px;
+}
